@@ -1,30 +1,7 @@
--- phpMyAdmin SQL Dump
--- version 4.6.1
--- http://www.phpmyadmin.net
---
--- Host: localhost
--- Generation Time: Oct 10, 2016 at 12:23 PM
--- Server version: 5.6.30-1
--- PHP Version: 5.6.22-2
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
 
-
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
-
---
--- Database: `kedin`
---
-
--- --------------------------------------------------------
-
---
--- Table structure for table `location_comunidades`
---
 
 CREATE TABLE `location_comunidades` (
   `id` int(10) UNSIGNED NOT NULL,
